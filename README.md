@@ -1,1 +1,1 @@
-# dqlab-data-analyst-career-track
+# DQLab Academy Data Analyst Career Track
